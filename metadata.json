@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm Nang Phú Quốc - Đấu Trường Tin Học 10",
+  "description": "Minigame tương tác thi đua theo tổ mô phỏng biên tập Cẩm nang du lịch Phú Quốc (Định dạng Styles, Cắt ảnh Crop, Bản đồ GeoGuessr, Xuất bản PDF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
